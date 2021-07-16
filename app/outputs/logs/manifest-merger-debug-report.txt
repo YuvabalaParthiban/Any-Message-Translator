@@ -1,0 +1,371 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cdaa83194e29814d01eb1fc6312e9c9a\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ca4c43ece2de75d085bfe8f7a025c53c\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ececdd81d77d0db9128685d0e313da8e\jetified-play-services-vision-16.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:2:1-23:12
+MERGED from [com.rmtheis:tess-two:6.3.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\b37b46b62c46b5aa0f076c6ed909e996\jetified-tess-two-6.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\65b26ec11e574f5d68d3fe93c8217bcb\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bff555816f04178ccb443f6de25b09cc\jetified-play-services-vision-common-16.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\eb5ca18ff5f751830bdf8748a7716d7c\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\31316777ce33acf24564e179f04a9a9b\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\74e489e82a0934491474adc2d9fceef6\jetified-play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\92e4c82c8166df6b17a7784118f1078f\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\12c076570219bdc2a11e9d0df335391a\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ee9b51f71825564f346013ea1d4d0318\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\e491b027066b482b439af311917e1339\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\0b3eeae4c45c19949f040ae2f0516871\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\f52c60a67eb4c2183a64b296ae574169\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6e57c04e98c372fcd8878b95a3d5645d\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\d2bc5983110492b5d9fde8d6f88a3eac\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\41208184856a4387f6f63a9e09f2764a\jetified-transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\34578c0159bdc7d0f9ca9be53fa6a8a9\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\c8ef5d8ea683ef23ce1d7e729bb1896a\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\098c479f6892902db16f6d5e04f3818b\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8cf26fd0d5f767ad6dfe1019ab25b952\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:8:5-67
+MERGED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cdaa83194e29814d01eb1fc6312e9c9a\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cdaa83194e29814d01eb1fc6312e9c9a\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ececdd81d77d0db9128685d0e313da8e\jetified-play-services-vision-16.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ececdd81d77d0db9128685d0e313da8e\jetified-play-services-vision-16.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:10:5-21:19
+MERGED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:10:5-21:19
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bff555816f04178ccb443f6de25b09cc\jetified-play-services-vision-common-16.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bff555816f04178ccb443f6de25b09cc\jetified-play-services-vision-common-16.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\eb5ca18ff5f751830bdf8748a7716d7c\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\eb5ca18ff5f751830bdf8748a7716d7c\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\31316777ce33acf24564e179f04a9a9b\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\31316777ce33acf24564e179f04a9a9b\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\92e4c82c8166df6b17a7784118f1078f\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\92e4c82c8166df6b17a7784118f1078f\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.anymessagetranslator.MainActivity6
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:16:9-51
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:16:19-48
+activity#com.example.anymessagetranslator.MainActivity5
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:17:9-51
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:17:19-48
+activity#com.example.anymessagetranslator.MainActivity4
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:18:19-48
+activity#com.example.anymessagetranslator.MainActivity3
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.anymessagetranslator.MainActivity1
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:20:19-48
+activity#com.example.anymessagetranslator.MainActivity2
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:21:19-48
+activity#com.example.anymessagetranslator.MainActivity
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:29:9-31:47
+	android:theme
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml:30:13-76
+uses-sdk
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cdaa83194e29814d01eb1fc6312e9c9a\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cdaa83194e29814d01eb1fc6312e9c9a\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ca4c43ece2de75d085bfe8f7a025c53c\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ca4c43ece2de75d085bfe8f7a025c53c\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ececdd81d77d0db9128685d0e313da8e\jetified-play-services-vision-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ececdd81d77d0db9128685d0e313da8e\jetified-play-services-vision-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.rmtheis:tess-two:6.3.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\b37b46b62c46b5aa0f076c6ed909e996\jetified-tess-two-6.3.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.rmtheis:tess-two:6.3.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\b37b46b62c46b5aa0f076c6ed909e996\jetified-tess-two-6.3.0\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\65b26ec11e574f5d68d3fe93c8217bcb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\65b26ec11e574f5d68d3fe93c8217bcb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bff555816f04178ccb443f6de25b09cc\jetified-play-services-vision-common-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bff555816f04178ccb443f6de25b09cc\jetified-play-services-vision-common-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\eb5ca18ff5f751830bdf8748a7716d7c\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\eb5ca18ff5f751830bdf8748a7716d7c\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\31316777ce33acf24564e179f04a9a9b\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\31316777ce33acf24564e179f04a9a9b\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\74e489e82a0934491474adc2d9fceef6\jetified-play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\74e489e82a0934491474adc2d9fceef6\jetified-play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\92e4c82c8166df6b17a7784118f1078f\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\92e4c82c8166df6b17a7784118f1078f\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\12c076570219bdc2a11e9d0df335391a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\12c076570219bdc2a11e9d0df335391a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ee9b51f71825564f346013ea1d4d0318\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ee9b51f71825564f346013ea1d4d0318\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\e491b027066b482b439af311917e1339\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\e491b027066b482b439af311917e1339\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\0b3eeae4c45c19949f040ae2f0516871\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\0b3eeae4c45c19949f040ae2f0516871\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\f52c60a67eb4c2183a64b296ae574169\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\f52c60a67eb4c2183a64b296ae574169\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6e57c04e98c372fcd8878b95a3d5645d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6e57c04e98c372fcd8878b95a3d5645d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\d2bc5983110492b5d9fde8d6f88a3eac\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\d2bc5983110492b5d9fde8d6f88a3eac\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\41208184856a4387f6f63a9e09f2764a\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\41208184856a4387f6f63a9e09f2764a\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\34578c0159bdc7d0f9ca9be53fa6a8a9\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\34578c0159bdc7d0f9ca9be53fa6a8a9\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\c8ef5d8ea683ef23ce1d7e729bb1896a\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\c8ef5d8ea683ef23ce1d7e729bb1896a\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\098c479f6892902db16f6d5e04f3818b\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\098c479f6892902db16f6d5e04f3818b\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8cf26fd0d5f767ad6dfe1019ab25b952\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8cf26fd0d5f767ad6dfe1019ab25b952\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\K.Sharmila\Desktop\Text\mlkit-android-master\AnyMessageTranslator2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:7:22-76
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:11:9-20:19
+MERGED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:13:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:12:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.nl.translate.NaturalLanguageTranslateRegistrar
+ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:15:17-126
+meta-data#com.google.firebase.components:com.google.mlkit.nl.translate.RemoteConfigRegistrar
+ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.mlkit:translate:16.1.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\cfa884b80b4a0d82a6e896d800f7c90e\jetified-translate-16.1.2\AndroidManifest.xml:18:17-114
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.1.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\433d2b50d8b932424f1c4a7c294bdc37\jetified-common-17.1.0\AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\7d3d7343f06d19e3b84aade156052cc7\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\TEMP\.android\caches\transforms-2\files-2.1\8a74a1f04ab563102b18b3cd53e5b77c\jetified-transport-runtime-2.2.5\AndroidManifest.xml:33:13-132
